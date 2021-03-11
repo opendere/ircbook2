@@ -1,0 +1,8 @@
+# generic python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+collectedstatic
+*.egg
+*/build/lib/*
